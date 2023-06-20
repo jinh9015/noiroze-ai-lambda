@@ -1,0 +1,6 @@
+boto3
+numpy
+tensorflow
+mysql-connector-python
+librosa
+Keras
